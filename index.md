@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  
-  <title>Hexo</title>
-
-  
-  
-
-</head>
-
 <body>
- <p>66666</p>
+
+<p>My family and I visited The Epcot center this summer.</p>
+
+<aside>
+<h4>Epcot Center</h4>
+<p>The Epcot Center is a theme park in Disney World, Florida.</p>
+</aside>
+
 </body>
 </html>
